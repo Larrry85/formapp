@@ -1,25 +1,20 @@
 # testApp
 
-Kokeilla yhdistää go, html, css ja js.
+Kokeilen yhdistää go, html, css ja js.
 
-## Table of Contents
+## Idea
 
-- nettiyhteys
-- "http://localhost:8080/"
-- avautuu htlm
-- html kutsuu: css ja js
+- Kirjoita "jotain" ja paina Submit -nappia, niin "jotain" ilmestyy sen alle
+- Syötä kaksi numeroa, niin ohjelma laskee ne yhteen
 
-## Jotain
+## Mitä pitää tehdä
 
 1. 
-2. 
-3. 
-4. 
-
-## Usage
-
-Joku koodi:
-
 ```
 go run main.go
 ```
+2. 
+```
+http://localhost:8080/
+```
+![Screenshot](testapp.png)
